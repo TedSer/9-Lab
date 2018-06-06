@@ -1,0 +1,7 @@
+ua\lviv\iot\persistence\dao\StudentDaoImpl.class
+ua\lviv\iot\rest\service\StudentService.class
+ua\lviv\iot\model\Student.class
+ua\lviv\iot\persistence\dao\AbstractDao.class
+ua\lviv\iot\persistence\dao\StudentDao.class
+ua\lviv\iot\rest\config\JaxRsConfig.class
+ua\lviv\iot\persistence\dao\IDao.class
